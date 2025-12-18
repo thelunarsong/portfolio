@@ -1,0 +1,13 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "homepage": "https://martinvias80.github.io/portfolio/",
+  "scripts": {
+    "dev": "vite",
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "vite": "^5.0.0"
+  }
+}
